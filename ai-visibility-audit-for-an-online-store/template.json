@@ -22,7 +22,7 @@
     "website-findability-audit"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-09",
     "package_format_valid": true,
@@ -38,7 +38,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's AI visibility audit for Shopify stores in its public Shopify repository (MIT): the eighteen checks and what each reads, the priority table and its thresholds, the feed and open-web routes, the answer-check sheet with its connection rule, and the rules that a missing page is never a failure and nothing on the store is changed."
+      "title": "FullyPowered AI's AI visibility audit for Shopify stores in its public Shopify repository (MIT): the eighteen checks and what each reads, the priority table and its thresholds, the feed and open-web routes, the answer-check sheet with its connection rule, and the rules that a missing page is never a failure and nothing on the store is changed."
     },
     {
       "kind": "third-party",

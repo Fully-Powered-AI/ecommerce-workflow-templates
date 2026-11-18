@@ -25,7 +25,7 @@
     "supplier-bill-review-and-payment-run-preparation"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -41,7 +41,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own design: set export headers that stop on a mismatch; units received checked against units invoiced; exchange rates used only as supplied; five charge types with a stop on any line that fits none; duty taken product by product from the customs entry as entered, counted once when the broker passes it on, with every customs question recorded for the broker and left unanswered; an allocation method per charge type; shares rounded to the cent with the remainder on the largest basis and a rounding check against the shipment total; the store's recorded cost as the comparison, with a percentage flag; margins at the recorded cost and the cost to enter against a floor; a new version for a late invoice; and a draft cost update list with the line for the books and a blank approval line."
+      "title": "FullyPowered AI's own design: set export headers that stop on a mismatch; units received checked against units invoiced; exchange rates used only as supplied; five charge types with a stop on any line that fits none; duty taken product by product from the customs entry as entered, counted once when the broker passes it on, with every customs question recorded for the broker and left unanswered; an allocation method per charge type; shares rounded to the cent with the remainder on the largest basis and a rounding check against the shipment total; the store's recorded cost as the comparison, with a percentage flag; margins at the recorded cost and the cost to enter against a floor; a new version for a late invoice; and a draft cost update list with the line for the books and a blank approval line."
     },
     {
       "kind": "third-party",

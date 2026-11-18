@@ -52,18 +52,18 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 - **Your claim words.** The list of words flagged for the owner, such as "premium" or "best", tuned to your category.
 - **Your platform.** It is written for Shopify. On another platform, the file goes where that platform serves a plain-text guide, links are written in full, and the placing steps are your platform's.
-- **The shopping rules.** The section on how assistants shop on your store follows Shopify's guidance as Fully Powered AI recorded it on 21 October 2026. Compare it with Shopify's help pages each quarter.
+- **The shopping rules.** The section on how assistants shop on your store follows Shopify's guidance as FullyPowered AI recorded it on 21 October 2026. Compare it with Shopify's help pages each quarter.
 - **Your help pages,** and whether a warranty or subscription page joins the policy list.
 - **Your roles,** if someone other than the operator places theme files.
 - **Your AI product.** It runs in ChatGPT, Claude, Copilot or Gemini from the files you supply; it needs no connection to your store and never asks for a password.
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template from its own work on store guides, already public under the MIT licence. It was editorially reviewed on 9 November 2026. It was tried once on its invented example in Claude on 9 November 2026; the record is published with it and lists the ambiguities the run found. One run covered only the complete-inputs case. Small clarifications were added after that run, on how policy labels are written, which links are counted and how lines are traced; the record lists these edits, which have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own work on store guides, already public under the MIT licence. It was editorially reviewed on 9 November 2026. It was tried once on its invented example in Claude on 9 November 2026; the record is published with it and lists the ambiguities the run found. One run covered only the complete-inputs case. Small clarifications were added after that run, on how policy labels are written, which links are counted and how lines are traced; the record lists these edits, which have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on your own facts file, plus hard cases written in advance, each with its expected behavior: a claim word in your own business line, a policy page missing from the address list, a contact address that is only an email, a request to add a line you have not cleared. The owner reads the guide line by line, and the operator opens every link after placing it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
@@ -94,4 +94,4 @@ Testing in your environment means running it on your own facts file, plus hard c
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

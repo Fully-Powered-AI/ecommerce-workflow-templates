@@ -26,7 +26,7 @@
     "bank-reconciliation-preparation"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -42,7 +42,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own design: default export headers for the count sheet, the book stock report and the item list, with a stop on any mismatch; the part of a difference explained by receiving, returns, damage, transfer or sample notes not yet entered in the books, never more than the difference; an ordered set of checks for a shortfall and for a surplus, with unexplained loss last and no person ever named; an equal and opposite pair of differences read as a possible mix-up of codes; recount levels applied to the unexplained part only, and a recount list ordered by money with how to recount; an item missing from a full count sent back for a recount before it is read as a loss; a stop when the book stock report cannot be narrowed to the locations counted; a default size check on count rows; and the actions for the approver, which separate bookings that bring the books up to date from adjustments whose cause was not found, give nothing to a difference still waiting for a recount, and carry a blank approval line each."
+      "title": "FullyPowered AI's own design: default export headers for the count sheet, the book stock report and the item list, with a stop on any mismatch; the part of a difference explained by receiving, returns, damage, transfer or sample notes not yet entered in the books, never more than the difference; an ordered set of checks for a shortfall and for a surplus, with unexplained loss last and no person ever named; an equal and opposite pair of differences read as a possible mix-up of codes; recount levels applied to the unexplained part only, and a recount list ordered by money with how to recount; an item missing from a full count sent back for a recount before it is read as a loss; a stop when the book stock report cannot be narrowed to the locations counted; a default size check on count rows; and the actions for the approver, which separate bookings that bring the books up to date from adjustments whose cause was not found, give nothing to a difference still waiting for a recount, and carry a blank approval line each."
     },
     {
       "kind": "third-party",

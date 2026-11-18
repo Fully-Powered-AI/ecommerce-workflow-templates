@@ -24,7 +24,7 @@
     "supplier-bill-review-and-payment-run-preparation"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -40,7 +40,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own design: weekly sales and stock exports with set column headers that stop on a mismatch; safety stock in two parts, one for sales running at the recent pace during the wait for delivery and one for a late delivery; an order-up-to target of the reorder point plus a set number of days of cover; the review-period reorder point used as the line that puts an item in the next-review group; a default overstock limit of 180 days of cover; the smallest pack additions to reach a supplier's minimum shown for that supplier's items not on the order as well as those on it; stock on order counted toward the stock-out date only when it arrives first; and the draft purchase order with a blank approval line."
+      "title": "FullyPowered AI's own design: weekly sales and stock exports with set column headers that stop on a mismatch; safety stock in two parts, one for sales running at the recent pace during the wait for delivery and one for a late delivery; an order-up-to target of the reorder point plus a set number of days of cover; the review-period reorder point used as the line that puts an item in the next-review group; a default overstock limit of 180 days of cover; the smallest pack additions to reach a supplier's minimum shown for that supplier's items not on the order as well as those on it; stock on order counted toward the stock-out date only when it arrives first; and the draft purchase order with a blank approval line."
     },
     {
       "kind": "third-party",
