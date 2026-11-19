@@ -1,10 +1,17 @@
 # Store guide for AI shopping assistants
 
-The person who runs an online store gets the plain-language guide a shopper's AI assistant reads about the store: what it sells, for whom, which product line suits which need, and where the policies are. Every line traces to the approved store facts file, and a person places it.
+Get the plain-language guide a shopper's AI assistant reads about your store, with every line traced to your approved facts. A person places it.
 
-*Workflow template · E-commerce and retail · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/store-guide-for-ai-shopping-assistants/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Store guide for AI shopping assistants on our website](https://fullypowered.ai/workflows/store-guide-for-ai-shopping-assistants/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-store-guide-for-ai-shopping-assistants&from=gh-store-guide-for-ai-shopping-assistant) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/store-guide-for-ai-shopping-assistants/?from=gh-store-guide-for-ai-shopping-assistant)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · E-commerce and retail · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/store-guide-for-ai-shopping-assistants/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-store-guide-for-ai-shopping-assistants&from=gh-store-guide-for-ai-shopping-assistant)*
 
 ## The outcome
 
@@ -44,11 +51,11 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/): your own description of the store, in your words, reaching every assistant that reads it.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/): online stores, where a shopper's AI assistant may read about the store before the shopper ever visits it.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/): brands selling direct, where every sentence about the product carries the brand's name.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): a store still serving the platform's default guide years after launch.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/): a new store that can describe itself accurately to assistants from its first week.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-store-guide-for-ai-shopping-assistants&from=gh-store-guide-for-ai-shopping-assistant): your own description of the store, in your words, reaching every assistant that reads it.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-store-guide-for-ai-shopping-assistants&from=gh-store-guide-for-ai-shopping-assistant): online stores, where a shopper's AI assistant may read about the store before the shopper ever visits it.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-store-guide-for-ai-shopping-assistants&from=gh-store-guide-for-ai-shopping-assistant): brands selling direct, where every sentence about the product carries the brand's name.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-store-guide-for-ai-shopping-assistants&from=gh-store-guide-for-ai-shopping-assistant): a store still serving the platform's default guide years after launch.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-store-guide-for-ai-shopping-assistants&from=gh-store-guide-for-ai-shopping-assistant): a new store that can describe itself accurately to assistants from its first week.
 
 ## What has to change for your company
 
@@ -63,7 +70,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template from its own work on store guides, already public under the MIT licence. It was editorially reviewed on 9 November 2026. It was tried once on its invented example in Claude on 9 November 2026; the record is published with it and lists the ambiguities the run found. One run covered only the complete-inputs case. Small clarifications were added after that run, on how policy labels are written, which links are counted and how lines are traced; the record lists these edits, which have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on your own facts file, plus hard cases written in advance, each with its expected behavior: a claim word in your own business line, a policy page missing from the address list, a contact address that is only an email, a request to add a line you have not cleared. The owner reads the guide line by line, and the operator opens every link after placing it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on your own facts file, plus hard cases written in advance, each with its expected behavior: a claim word in your own business line, a policy page missing from the address list, a contact address that is only an email, a request to add a line you have not cleared. The owner reads the guide line by line, and the operator opens every link after placing it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-store-guide-for-ai-shopping-assistants&from=gh-store-guide-for-ai-shopping-assistant) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-store-guide-for-ai-shopping-assistants&from=gh-store-guide-for-ai-shopping-assistant) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -96,4 +103,4 @@ Testing in your environment means running it on your own facts file, plus hard c
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-store-guide-for-ai-shopping-assistants&from=gh-store-guide-for-ai-shopping-assistant).

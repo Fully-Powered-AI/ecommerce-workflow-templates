@@ -1,10 +1,17 @@
 # Payout reconciliation for an online store
 
-Each month the bookkeeper gets every payout from the store's processors and marketplaces taken apart and tied to the bank: the orders, refunds, chargebacks and fees inside it, each fee checked against the agreed rate, every difference listed with its evidence. A person posts the entries and raises any dispute.
+Get every processor and marketplace payout tied to the bank, each fee checked against the agreed rate, every difference listed. A person posts the entries.
 
-*Workflow template · E-commerce and retail · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/payout-reconciliation-for-an-online-store/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Payout reconciliation for an online store on our website](https://fullypowered.ai/workflows/payout-reconciliation-for-an-online-store/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-payout-reconciliation-for-an-online-store&from=gh-payout-reconciliation-for-an-online-s) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/payout-reconciliation-for-an-online-store/?from=gh-payout-reconciliation-for-an-online-s)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · E-commerce and retail · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/payout-reconciliation-for-an-online-store/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-payout-reconciliation-for-an-online-store&from=gh-payout-reconciliation-for-an-online-s)*
 
 ## The outcome
 
@@ -51,13 +58,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/): the books should show gross sales and each kind of cost, never just the net sum that reached the bank.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/): a store paid by a card processor and one or more marketplaces has several payout schedules and fee tables to keep straight.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/): a brand selling direct and through marketplaces sees each channel's real cost side by side.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): when a second channel or a busy season makes checking payouts by eye impossible.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): when the month's payout checks live in one person's spreadsheet and should live in a pack anyone can review.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-payout-reconciliation-for-an-online-store&from=gh-payout-reconciliation-for-an-online-s): the books should show gross sales and each kind of cost, never just the net sum that reached the bank.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-payout-reconciliation-for-an-online-store&from=gh-payout-reconciliation-for-an-online-s): a store paid by a card processor and one or more marketplaces has several payout schedules and fee tables to keep straight.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-payout-reconciliation-for-an-online-store&from=gh-payout-reconciliation-for-an-online-s): a brand selling direct and through marketplaces sees each channel's real cost side by side.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-payout-reconciliation-for-an-online-store&from=gh-payout-reconciliation-for-an-online-s): when a second channel or a busy season makes checking payouts by eye impossible.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-payout-reconciliation-for-an-online-store&from=gh-payout-reconciliation-for-an-online-s): when the month's payout checks live in one person's spreadsheet and should live in a pack anyone can review.
 
-It is the step before [bank reconciliation preparation](https://fullypowered.ai/workflows/bank-reconciliation-preparation/), which then ties the whole bank account to the books, and it sits beside [chargeback response pack](https://fullypowered.ai/workflows/chargeback-response-pack/), which answers a single card dispute.
+It is the step before [bank reconciliation preparation](https://fullypowered.ai/workflows/bank-reconciliation-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-payout-reconciliation-for-an-online-store&from=gh-payout-reconciliation-for-an-online-s), which then ties the whole bank account to the books, and it sits beside [chargeback response pack](https://fullypowered.ai/workflows/chargeback-response-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-payout-reconciliation-for-an-online-store&from=gh-payout-reconciliation-for-an-online-s), which answers a single card dispute.
 
 ## What has to change for your company
 
@@ -67,7 +74,7 @@ List the channels you are paid by and how each one appears on your bank statemen
 
 FullyPowered AI wrote this workflow template in its own words, drawing on two published methods that are credited with it. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it, and lists the ambiguities it met and the small edits made afterward, which have not been run again. That run covered an ordinary month; it did not reach a column heading that does not match, a foreign currency, a payout that does not add up or a request to post or adjust. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past months your bookkeeper has already closed, with hard cases written in advance: an export whose headings differ, a payout on the last business day of the month, a deposit that matches nothing, a refund where the channel keeps part of its fee. The bookkeeper checks every fee difference by hand against the rate before anything is raised. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past months your bookkeeper has already closed, with hard cases written in advance: an export whose headings differ, a payout on the last business day of the month, a deposit that matches nothing, a refund where the channel keeps part of its fee. The bookkeeper checks every fee difference by hand against the rate before anything is raised. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-payout-reconciliation-for-an-online-store&from=gh-payout-reconciliation-for-an-online-s) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-payout-reconciliation-for-an-online-store&from=gh-payout-reconciliation-for-an-online-s) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -94,10 +101,10 @@ Testing in your environment means running it on two or three past months your bo
 
 ## Related workflow templates
 
-- [Bank reconciliation preparation](https://fullypowered.ai/workflows/bank-reconciliation-preparation/)
+- [Bank reconciliation preparation](https://fullypowered.ai/workflows/bank-reconciliation-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-payout-reconciliation-for-an-online-store&from=gh-payout-reconciliation-for-an-online-s)
 - [Chargeback response pack](../chargeback-response-pack/)
-- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/)
+- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-payout-reconciliation-for-an-online-store&from=gh-payout-reconciliation-for-an-online-s)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-payout-reconciliation-for-an-online-store&from=gh-payout-reconciliation-for-an-online-s).

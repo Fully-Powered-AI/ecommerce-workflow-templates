@@ -1,10 +1,17 @@
 # Slow-moving stock and markdown plan
 
-Before a seasonal reset, the merchandiser or store owner gets one plan from the sales and stock exports: each item's sell-through and weeks of cover, the cash tied up in dead and slow stock, and a markdown plan in dated steps with the margin each leaves and a date to stop. The owner decides every price.
+Turn sales and stock exports into a dated markdown plan showing sell-through, weeks of cover and cash tied up in slow stock. The owner decides every price.
 
-*Workflow template · E-commerce and retail · Supply chain and inventory · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/slow-moving-stock-and-markdown-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Slow-moving stock and markdown plan on our website](https://fullypowered.ai/workflows/slow-moving-stock-and-markdown-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-slow-moving-stock-and-markdown-plan&from=gh-slow-moving-stock-and-markdown-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/slow-moving-stock-and-markdown-plan/?from=gh-slow-moving-stock-and-markdown-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · E-commerce and retail · Supply chain and inventory · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/slow-moving-stock-and-markdown-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-slow-moving-stock-and-markdown-plan&from=gh-slow-moving-stock-and-markdown-plan)*
 
 ## The outcome
 
@@ -43,14 +50,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/): sell-through, weeks of cover and the cash held in stock, worked from the store's own exports.
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/): one fixed view of the range before each reset, the same every season, whoever runs it.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/): online and physical stores with seasonal ranges, where last season's stock takes the space and cash the next one needs.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/): brands selling their own products, clearing a season's colors and styles before the next drop.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): when markdowns have always been set by feel and the margin they give away is never counted.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/): when the range has grown past what the owner can review item by item from memory.
+- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-slow-moving-stock-and-markdown-plan&from=gh-slow-moving-stock-and-markdown-plan): sell-through, weeks of cover and the cash held in stock, worked from the store's own exports.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-slow-moving-stock-and-markdown-plan&from=gh-slow-moving-stock-and-markdown-plan): one fixed view of the range before each reset, the same every season, whoever runs it.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-slow-moving-stock-and-markdown-plan&from=gh-slow-moving-stock-and-markdown-plan): online and physical stores with seasonal ranges, where last season's stock takes the space and cash the next one needs.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-slow-moving-stock-and-markdown-plan&from=gh-slow-moving-stock-and-markdown-plan): brands selling their own products, clearing a season's colors and styles before the next drop.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-slow-moving-stock-and-markdown-plan&from=gh-slow-moving-stock-and-markdown-plan): when markdowns have always been set by feel and the margin they give away is never counted.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-slow-moving-stock-and-markdown-plan&from=gh-slow-moving-stock-and-markdown-plan): when the range has grown past what the owner can review item by item from memory.
 
-It sits beside the [inventory reorder plan](https://fullypowered.ai/workflows/inventory-reorder-plan/), which decides what to buy; this plan decides how to clear what has not sold. Raising list prices is the [price change review](https://fullypowered.ai/workflows/price-change-review/), a separate piece of work. The [store facts file](https://fullypowered.ai/workflows/store-facts-file/) records who decides prices.
+It sits beside the [inventory reorder plan](https://fullypowered.ai/workflows/inventory-reorder-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-slow-moving-stock-and-markdown-plan&from=gh-slow-moving-stock-and-markdown-plan), which decides what to buy; this plan decides how to clear what has not sold. Raising list prices is the [price change review](https://fullypowered.ai/workflows/price-change-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-slow-moving-stock-and-markdown-plan&from=gh-slow-moving-stock-and-markdown-plan), a separate piece of work. The [store facts file](https://fullypowered.ai/workflows/store-facts-file/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-slow-moving-stock-and-markdown-plan&from=gh-slow-moving-stock-and-markdown-plan) records who decides prices.
 
 ## What has to change for your company
 
@@ -65,7 +72,7 @@ It sits beside the [inventory reorder plan](https://fullypowered.ai/workflows/in
 
 FullyPowered AI wrote this workflow template in its own words, drawing on two published retail methods credited with it. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with the template; it lists the edits made afterward, which clarify wording the run had to interpret and have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past season your merchandiser remembers well, plus hard cases written in advance, each with its expected behavior: an export with a renamed column, an item that stopped selling a month ago, a step that would fall below the margin floor, a kept line with half a year of stock, an item that arrived last week. The merchandiser checks every price and margin against the exports before the owner decides. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a past season your merchandiser remembers well, plus hard cases written in advance, each with its expected behavior: an export with a renamed column, an item that stopped selling a month ago, a step that would fall below the margin floor, a kept line with half a year of stock, an item that arrived last week. The merchandiser checks every price and margin against the exports before the owner decides. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-slow-moving-stock-and-markdown-plan&from=gh-slow-moving-stock-and-markdown-plan) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-slow-moving-stock-and-markdown-plan&from=gh-slow-moving-stock-and-markdown-plan) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -93,10 +100,10 @@ Testing in your environment means running it on a past season your merchandiser 
 ## Related workflow templates
 
 - [Inventory reorder plan](../inventory-reorder-plan/)
-- [Price change review](https://fullypowered.ai/workflows/price-change-review/)
+- [Price change review](https://fullypowered.ai/workflows/price-change-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-slow-moving-stock-and-markdown-plan&from=gh-slow-moving-stock-and-markdown-plan)
 - [Store facts file](../store-facts-file/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-slow-moving-stock-and-markdown-plan&from=gh-slow-moving-stock-and-markdown-plan)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-slow-moving-stock-and-markdown-plan&from=gh-slow-moving-stock-and-markdown-plan).

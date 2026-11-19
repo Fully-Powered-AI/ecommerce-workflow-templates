@@ -1,10 +1,17 @@
 # AI visibility audit for an online store
 
-A store owner or marketer gets a dated audit of how the store reads to AI assistants and shopping agents, from its own saved public pages: eighteen fixed checks with evidence, a fix list in priority order, and a record of what the assistants actually said. Nothing on the store is changed.
+Find out what stops ChatGPT and other AI shopping assistants reading your store: eighteen checks with evidence and a fix list. You decide each fix.
 
-*Workflow template · E-commerce and retail · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ai-visibility-audit-for-an-online-store/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See AI visibility audit for an online store on our website](https://fullypowered.ai/workflows/ai-visibility-audit-for-an-online-store/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/ai-visibility-audit-for-an-online-store/?from=gh-ai-visibility-audit-for-an-online-sto)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · E-commerce and retail · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ai-visibility-audit-for-an-online-store/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto)*
 
 ## The outcome
 
@@ -22,7 +29,7 @@ That person writes a short facts note, saves the store's public pages or approve
 
 ## What they supply
 
-- **A facts note.** The store's name and address, its product lines, the words buyers use, the facts every product page should state, the questions buyers ask, and who decides and who edits the store. A [store facts file](https://fullypowered.ai/workflows/store-facts-file/) already holds most of it.
+- **A facts note.** The store's name and address, its product lines, the words buyers use, the facts every product page should state, the questions buyers ask, and who decides and who edits the store. A [store facts file](https://fullypowered.ai/workflows/store-facts-file/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto) already holds most of it.
 - **The store's public pages, saved on one date,** from a fixed list: the robots file, the guide for shopping assistants, the sitemaps, the home page, the policies, the FAQ or guide page and a sample of product pages. With the list goes a note of which pages failed to load.
 - **The Shopify Catalog status,** copied from the store's admin with the date, for a Shopify store.
 - **The answer-check sheet,** when you have filled one: each buyer question asked of each assistant, with whether the store was named and which pages were cited.
@@ -40,18 +47,18 @@ One dated audit, in a fixed order:
 6. **What changed since the last audit, what the audit cannot see, and exactly what was read.**
 7. **A blank answer-check sheet** when the next one is due.
 
-Good looks like this: anyone can check any line against the saved file it names in under a minute, and nothing in the audit claims more than those files show. Fixes to product descriptions and images go naturally to a [product-page facts gap review](https://fullypowered.ai/workflows/product-page-facts-gap-review/).
+Good looks like this: anyone can check any line against the saved file it names in under a minute, and nothing in the audit claims more than those files show. Fixes to product descriptions and images go naturally to a [product-page facts gap review](https://fullypowered.ai/workflows/product-page-facts-gap-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto).
 
 See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where a shopper may put the question to an assistant before ever reaching the store.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), which owns how the store is found and what its pages say.
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/), which keeps the monthly answer check and the audits that compare across dates.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), with a working store, a catalog and a theme that has collected years of changes nobody has rechecked.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto), where a shopper may put the question to an assistant before ever reaching the store.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto), which owns how the store is found and what its pages say.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto), which keeps the monthly answer check and the audits that compare across dates.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto), with a working store, a catalog and a theme that has collected years of changes nobody has rechecked.
 
-If the site sells nothing online, use the [website findability audit](https://fullypowered.ai/workflows/website-findability-audit/) instead; it is written for any company's site.
+If the site sells nothing online, use the [website findability audit](https://fullypowered.ai/workflows/website-findability-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto) instead; it is written for any company's site.
 
 ## What has to change for your company
 
@@ -66,7 +73,7 @@ If the site sells nothing online, use the [website findability audit](https://fu
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026 in two runs: the first, by a model that had not written it, found places where the instructions were open; they were closed, and the second run, recorded with it, was made on the revised version by the model that revised it. A few clarifications made after that run, without a rerun, are listed in its record. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on your own store's saved pages, plus hard cases written in advance, each with its expected behavior: a page that was not saved, a robots rule that shuts out a crawler, a product page with no availability in its structured data, an answer sheet asked from a connected account. A person checks every outcome against the saved files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on your own store's saved pages, plus hard cases written in advance, each with its expected behavior: a page that was not saved, a robots rule that shuts out a crawler, a product page with no availability in its structured data, an answer sheet asked from a connected account. A person checks every outcome against the saved files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -95,8 +102,8 @@ Testing in your environment means running it on your own store's saved pages, pl
 
 - [Store facts file](../store-facts-file/)
 - [Product-page facts gap review](../product-page-facts-gap-review/)
-- [Website findability audit](https://fullypowered.ai/workflows/website-findability-audit/)
+- [Website findability audit](https://fullypowered.ai/workflows/website-findability-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto).

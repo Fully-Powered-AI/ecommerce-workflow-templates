@@ -1,10 +1,17 @@
 # Product landed cost worksheet
 
-After an import shipment lands, the owner or bookkeeper gets one worksheet: freight, duty, brokerage, insurance and inbound fees from the invoices spread over each product by a stated method, the landed unit cost beside the cost the store records, and the margin left. A person updates any cost.
+Spread freight, duty, brokerage and fees over each imported product, see landed unit cost beside recorded cost and margin left. A person updates any cost.
 
-*Workflow template · E-commerce and retail · Supply chain and inventory · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/product-landed-cost-worksheet/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Product landed cost worksheet on our website](https://fullypowered.ai/workflows/product-landed-cost-worksheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-product-landed-cost-worksheet&from=gh-product-landed-cost-worksheet) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/product-landed-cost-worksheet/?from=gh-product-landed-cost-worksheet)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · E-commerce and retail · Supply chain and inventory · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/product-landed-cost-worksheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-product-landed-cost-worksheet&from=gh-product-landed-cost-worksheet)*
 
 ## The outcome
 
@@ -43,15 +50,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/): the cost of each unit of stock, built up from the shipment that brought it.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/): the stock value for the books and the gross margin by product, worked out the same way every time.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/): online stores that import what they sell and price it from a cost they can trust.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/): brands that have their products made abroad and ship them in by container.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/): trading businesses that buy overseas and sell online, where freight and duty are a large share of cost.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/): when shipments arrive too often to cost by hand in a spreadsheet.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): when product costs were set years ago and freight and duty have moved since.
+- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-product-landed-cost-worksheet&from=gh-product-landed-cost-worksheet): the cost of each unit of stock, built up from the shipment that brought it.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-product-landed-cost-worksheet&from=gh-product-landed-cost-worksheet): the stock value for the books and the gross margin by product, worked out the same way every time.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-product-landed-cost-worksheet&from=gh-product-landed-cost-worksheet): online stores that import what they sell and price it from a cost they can trust.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-product-landed-cost-worksheet&from=gh-product-landed-cost-worksheet): brands that have their products made abroad and ship them in by container.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-product-landed-cost-worksheet&from=gh-product-landed-cost-worksheet): trading businesses that buy overseas and sell online, where freight and duty are a large share of cost.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-product-landed-cost-worksheet&from=gh-product-landed-cost-worksheet): when shipments arrive too often to cost by hand in a spreadsheet.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-product-landed-cost-worksheet&from=gh-product-landed-cost-worksheet): when product costs were set years ago and freight and duty have moved since.
 
-It sits beside the [inventory reorder plan](https://fullypowered.ai/workflows/inventory-reorder-plan/), which decides what to order next, and [supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/), which looks at spend across a whole period. Checking the bills before they are paid is [supplier bill review and payment run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/).
+It sits beside the [inventory reorder plan](https://fullypowered.ai/workflows/inventory-reorder-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-product-landed-cost-worksheet&from=gh-product-landed-cost-worksheet), which decides what to order next, and [supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-product-landed-cost-worksheet&from=gh-product-landed-cost-worksheet), which looks at spend across a whole period. Checking the bills before they are paid is [supplier bill review and payment run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-product-landed-cost-worksheet&from=gh-product-landed-cost-worksheet).
 
 ## What has to change for your company
 
@@ -67,7 +74,7 @@ It sits beside the [inventory reorder plan](https://fullypowered.ai/workflows/in
 
 FullyPowered AI wrote this workflow template in its own words, drawing on a published cost-tracking method credited with it. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in two runs in Claude, the second after small clarifications to its instructions; the record is published with it and notes that both runs followed a clean path, so none of the stop conditions was exercised. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past shipments your bookkeeper has already costed, plus hard cases written in advance, each with its expected behavior: a renamed column, a short delivery, duty passed on by the broker as well as shown on the entry, an invoice in another currency, a late receiving invoice. The bookkeeper checks every figure against the invoices before anyone approves a cost. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on two or three past shipments your bookkeeper has already costed, plus hard cases written in advance, each with its expected behavior: a renamed column, a short delivery, duty passed on by the broker as well as shown on the entry, an invoice in another currency, a late receiving invoice. The bookkeeper checks every figure against the invoices before anyone approves a cost. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-product-landed-cost-worksheet&from=gh-product-landed-cost-worksheet) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-product-landed-cost-worksheet&from=gh-product-landed-cost-worksheet) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -95,9 +102,9 @@ Testing in your environment means running it on two or three past shipments your
 ## Related workflow templates
 
 - [Inventory reorder plan](../inventory-reorder-plan/)
-- [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/)
-- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/)
+- [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-product-landed-cost-worksheet&from=gh-product-landed-cost-worksheet)
+- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-product-landed-cost-worksheet&from=gh-product-landed-cost-worksheet)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-product-landed-cost-worksheet&from=gh-product-landed-cost-worksheet).

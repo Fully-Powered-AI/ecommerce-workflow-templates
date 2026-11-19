@@ -1,10 +1,17 @@
 # Inventory reorder plan
 
-The store owner or buyer gets one plan from the latest sales and stock exports: each item's sales rate, the day it could run out, its reorder point and safety stock, what to order, what is not moving, and a draft purchase order per supplier. Nothing is ordered until a person approves.
+The buyer gets one plan from the latest sales and stock exports, with what to order and a draft purchase order per supplier. A person approves each.
 
-*Workflow template · E-commerce and retail · Supply chain and inventory · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inventory-reorder-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Inventory reorder plan on our website](https://fullypowered.ai/workflows/inventory-reorder-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/inventory-reorder-plan/?from=gh-ecommerce-inventory-reorder-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · E-commerce and retail · Supply chain and inventory · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inventory-reorder-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan)*
 
 ## The outcome
 
@@ -44,14 +51,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/): sales rates, safety stock, reorder points and order quantities, worked from the store's own figures.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/): a weekly stock decision on a fixed method, the same every time, whoever runs it.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/): online and physical stores where an empty shelf on a favourite costs orders and a slow line holds cash for months.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/): brands selling their own products, buying from a handful of suppliers with packs, minimums and delivery times.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/): when the range has grown past what the owner can reorder from memory.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): when reorder habits set years ago no longer match what sells.
+- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan): sales rates, safety stock, reorder points and order quantities, worked from the store's own figures.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan): a weekly stock decision on a fixed method, the same every time, whoever runs it.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan): online and physical stores where an empty shelf on a favourite costs orders and a slow line holds cash for months.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan): brands selling their own products, buying from a handful of suppliers with packs, minimums and delivery times.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan): when the range has grown past what the owner can reorder from memory.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan): when reorder habits set years ago no longer match what sells.
 
-It follows naturally from a [store facts file](https://fullypowered.ai/workflows/store-facts-file/), which records who approves spending. Choosing a new supplier is [vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/), and paying the bills that follow a delivery is [supplier bill review and payment run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/).
+It follows naturally from a [store facts file](https://fullypowered.ai/workflows/store-facts-file/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan), which records who approves spending. Choosing a new supplier is [vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan), and paying the bills that follow a delivery is [supplier bill review and payment run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan).
 
 ## What has to change for your company
 
@@ -66,7 +73,7 @@ It follows naturally from a [store facts file](https://fullypowered.ai/workflows
 
 FullyPowered AI wrote this workflow template in its own words, drawing on two published inventory methods credited with it. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with the template; it lists the edits made afterward, including the rounding rule for stock above the overstock limit, which have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past weeks your buyer remembers well, plus hard cases written in advance, each with its expected behavior: an export with a renamed column, an item that was sold out for part of the month, a one-off wholesale order, stock already on order, a supplier minimum that is not reached. The buyer checks every quantity against the exports before anyone approves an order. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on two or three past weeks your buyer remembers well, plus hard cases written in advance, each with its expected behavior: an export with a renamed column, an item that was sold out for part of the month, a one-off wholesale order, stock already on order, a supplier minimum that is not reached. The buyer checks every quantity against the exports before anyone approves an order. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -94,9 +101,9 @@ Testing in your environment means running it on two or three past weeks your buy
 ## Related workflow templates
 
 - [Store facts file](../store-facts-file/)
-- [Vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/)
-- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/)
+- [Vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan)
+- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan).
