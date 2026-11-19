@@ -4,6 +4,8 @@ Product by product, your merchandiser sees what a shopper's AI assistant needs f
 
 *Workflow template · E-commerce and retail · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/product-page-facts-gap-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/product-page-facts-gap-review/?from=gh-product-page-facts-gap-review)
+
 ## The outcome
 
 When a shopper asks an AI assistant which candle, kettle or running shoe to buy, the assistant can only repeat what your product pages say. This review shows you, page by page, where it comes up empty. You see which of your own must-state facts each description leaves out, which images have no alt text for the shopper who cannot see them, and which of your buyers' usual questions the page never answers.

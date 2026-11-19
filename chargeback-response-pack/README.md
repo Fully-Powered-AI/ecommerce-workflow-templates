@@ -4,6 +4,8 @@ When a card dispute lands, the store owner or finance lead gets one pack: the di
 
 *Workflow template · E-commerce and retail · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/chargeback-response-pack/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/chargeback-response-pack/?from=gh-ecommerce-chargeback-response-pack)
+
 ## The outcome
 
 A dispute stops being a scramble through the order system, the carrier's site and the support inbox. The pack puts the processor's reason next to the order it concerns and says, item by item, what a bank expects to see for that kind of dispute and whether you have it. A delivery scan, a customer email, a policy page: each is either on the list with where it came from, or named as missing with where to get it.

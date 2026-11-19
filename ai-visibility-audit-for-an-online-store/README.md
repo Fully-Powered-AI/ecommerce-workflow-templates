@@ -4,6 +4,8 @@ A store owner or marketer gets a dated audit of how the store reads to AI assist
 
 *Workflow template · E-commerce and retail · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ai-visibility-audit-for-an-online-store/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/ai-visibility-audit-for-an-online-store/?from=gh-ai-visibility-audit-for-an-online-sto)
+
 ## The outcome
 
 You stop wondering whether ChatGPT can see your store and start fixing what is actually in the way. The audit reads the pages an assistant reads: the robots file, the store's guide for shopping assistants, the sitemaps, the policies, the product pages and the structured data behind them. Every check ends in a plain outcome and one sentence of evidence that points to the saved file, so your theme developer can go straight to the line.

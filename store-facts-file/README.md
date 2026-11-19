@@ -4,6 +4,8 @@ The person who runs an online store builds the one file every other store workfl
 
 *Workflow template · E-commerce and retail · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/store-facts-file/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/store-facts-file/?from=gh-ecommerce-store-facts-file)
+
 ## The outcome
 
 Your store gets one source of truth that every piece of AI-assisted work starts from. Product lines in your own words. The facts a careful buyer checks before buying, and how your pages word them. The exact statements you stand behind, and the ones you never make. Your buyers' real questions, the way they really type them. The policy pages, the apps, who approves what, and how later work gets at your data.

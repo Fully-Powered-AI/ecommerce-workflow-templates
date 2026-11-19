@@ -4,6 +4,8 @@ After an import shipment lands, the owner or bookkeeper gets one worksheet: frei
 
 *Workflow template · E-commerce and retail · Supply chain and inventory · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/product-landed-cost-worksheet/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/product-landed-cost-worksheet/?from=gh-product-landed-cost-worksheet)
+
 ## The outcome
 
 Every imported product carries its true cost, not just the factory price. Once a container is in the warehouse and the invoices are in, the worksheet gathers every charge the shipment ran up, from ocean freight to the receiving fee, and places each one on the products that caused it, by the method the store chose: value, units, weight or volume.

@@ -4,6 +4,8 @@ Before a seasonal reset, the merchandiser or store owner gets one plan from the 
 
 *Workflow template · E-commerce and retail · Supply chain and inventory · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/slow-moving-stock-and-markdown-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/slow-moving-stock-and-markdown-plan/?from=gh-slow-moving-stock-and-markdown-plan)
+
 ## The outcome
 
 The end of a season stops being a guess about what to discount and by how much. Every item is placed in one group: dead, slow, on track, too new to judge, or a line you are keeping that holds far more than it sells. Each line shows its sell-through, its weekly sales rate, how many weeks the stock on hand would last, and the cash at cost sitting in it, so the money is visible before anyone talks about percentages.

@@ -4,6 +4,8 @@ Each month the bookkeeper gets every payout from the store's processors and mark
 
 *Workflow template · E-commerce and retail · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/payout-reconciliation-for-an-online-store/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/payout-reconciliation-for-an-online-store/?from=gh-payout-reconciliation-for-an-online-s)
+
 ## The outcome
 
 A payout is a single number that hides a month of activity. Sales go in; refunds, chargebacks, the channel's fees, advertising and any money held back come out; whatever is left lands in the bank a day or two later. This workflow template opens every payout up and accounts for each part of it.

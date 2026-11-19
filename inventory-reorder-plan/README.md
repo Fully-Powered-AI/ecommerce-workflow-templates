@@ -4,6 +4,8 @@ The store owner or buyer gets one plan from the latest sales and stock exports: 
 
 *Workflow template · E-commerce and retail · Supply chain and inventory · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inventory-reorder-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/inventory-reorder-plan/?from=gh-ecommerce-inventory-reorder-plan)
+
 ## The outcome
 
 Reordering becomes a short weekly decision instead of a scramble. Every item lands in one place on the plan: order now, order at the next review, no order needed, not moving, overstocked, or too new to judge. Items that will sell out before a fresh delivery could arrive are marked first, with the number of days they will be empty.

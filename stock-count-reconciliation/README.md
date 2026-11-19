@@ -4,6 +4,8 @@ After a physical count, the bookkeeper and the warehouse or store lead get every
 
 *Workflow template · E-commerce and retail · Supply chain and inventory · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/stock-count-reconciliation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/stock-count-reconciliation/?from=gh-ecommerce-stock-count-reconciliation)
+
 ## The outcome
 
 The count and the books meet one item at a time rather than as a single total at the foot of a spreadsheet. Every stock item gets a line: what was on the shelf, what the books say, the difference in units, and its value at the books' own average cost. Short, over, agreed or needing a bookkeeping answer, each item is in exactly one place.

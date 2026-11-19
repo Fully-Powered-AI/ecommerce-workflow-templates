@@ -4,6 +4,8 @@ The person who runs an online store gets the plain-language guide a shopper's AI
 
 *Workflow template · E-commerce and retail · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/store-guide-for-ai-shopping-assistants/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/store-guide-for-ai-shopping-assistants/?from=gh-store-guide-for-ai-shopping-assistant)
+
 ## The outcome
 
 When a shopper asks an AI assistant about your store, the assistant has your own description to read instead of a generic one. On Shopify, your store already serves a default guide to these assistants, and it says nothing about what you sell. This workflow template writes the replacement: your business in your own words, your product lines and who each one is for, the facts each product page carries, the statements you stand behind word for word, your policy and help pages, and the things the store never claims.
