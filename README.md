@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for online stores turn the AI your store already
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for online stores](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-readme&from=gh-ecommerce-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-readme&from=gh-ecommerce-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for online stores](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-readme&from=gh-ecommerce-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-readme&from=gh-ecommerce-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,17 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Find what your product pages leave out.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat, then replace the square brackets with your own words. You need no sign-in here and nothing to download.
 
    ```text
-   You are helping me review my online store's product pages. I run the review and a person decides everything. Here is my fact list: for each kind of product, the facts every page should state, and where each fact comes from: [your fact list]. Here are the titles and descriptions of [3 to 5] products: [paste them]. For each product, list which facts the description does not state. Read the description itself, not the title. Then, only where I have pasted a source such as a label, draft a one-line addition with its source. If there is no source, mark the line open and say what is needed. Never fill a fact from general knowledge. Change nothing and publish nothing. Finish by saying every line waits for my approval.
+   You are helping me review my online store's product pages. I run the
+   review and a person decides everything. Here is my fact list: for each
+   kind of product, the facts every page should state, and where each fact
+   comes from: [your fact list]. Here are the titles and descriptions of [3
+   to 5] products: [paste them]. For each product, list which facts the
+   description does not state. Read the description itself, not the title.
+   Then, only where I have pasted a source such as a label, draft a
+   one-line addition with its source. If there is no source, mark the line
+   open and say what is needed. Never fill a fact from general knowledge.
+   Change nothing and publish nothing. Finish by saying every line waits
+   for my approval.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes back, for an invented candle shop:

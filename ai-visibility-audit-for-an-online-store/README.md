@@ -3,7 +3,7 @@
 Find out what stops ChatGPT and other AI shopping assistants reading your store: eighteen checks with evidence and a fix list. You decide each fix.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See AI visibility audit for an online store on our website](https://fullypowered.ai/workflows/ai-visibility-audit-for-an-online-store/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See AI visibility audit for an online store on our website](https://fullypowered.ai/workflows/ai-visibility-audit-for-an-online-store/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 
