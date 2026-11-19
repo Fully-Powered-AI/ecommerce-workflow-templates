@@ -1,6 +1,6 @@
-# Inventory reorder plan: an invented example
+# Inventory reorder plan: an example
 
-*Illustrative example with invented data.* The store, the suppliers, the products, the sales, the costs and every date below are invented. The store is an invented online tea shop, called the Store here, with nine stocked items from three suppliers, named Supplier A, B and C. Its buyer runs the plan each Monday and its owner approves every purchase order. People are referred to by role.
+*Illustrative example with sample data.* The store, the suppliers, the products, the sales, the costs and every date below are illustrative. The store is an illustrative online tea shop, called the Store here, with nine stocked items from three suppliers, named Supplier A, B and C. Its buyer runs the plan each Monday and its owner approves every purchase order. People are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The plan follows.
 

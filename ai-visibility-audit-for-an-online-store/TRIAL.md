@@ -1,10 +1,10 @@
-# AI visibility audit for an online store: tried on its invented example
+# AI visibility audit for an online store: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-09
 
-The inputs were the invented example in `public/example.md` (Quillmere Candle Works, an invented Shopify store). No client data was used.
+The inputs were the example in `public/example.md` (Quillmere Candle Works, an illustrative Shopify store). No client data was used.
 
 This is the second run on the example. The first, on the same day, was made by Claude Sonnet 5.5, a model that had not written the template; it matched the example on every outcome and count and listed eleven shortcomings and open points. After an independent review, the template was revised to close them (see "Changes since the first run" below), and one input was added to the example: the facts note's line "Pages saved on: 2026-11-05, all on that day". The run recorded here was then made on the revised version, by the same model, in the same session, that made the revisions and rewrote the example's output. It is therefore a check that the revised instructions produce the example's result, not an independent trial: the agreement below is expected and is not evidence from a fresh reader.
 

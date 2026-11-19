@@ -1,6 +1,6 @@
-# Store guide for AI shopping assistants: an invented example
+# Store guide for AI shopping assistants: an example
 
-*Illustrative example with invented data.* The store, its web address, its products, its pages and its roles below are all invented. Tarnmoor Wool Co. is an invented online store on Shopify selling wool socks and blankets in the United States, run by an owner and an operator. First come the inputs the operator supplied, in full, then the report the workflow template returned on 5 November 2026.
+*Illustrative example with sample data.* The store, its web address, its products, its pages and its roles below are all illustrative. Tarnmoor Wool Co. is an illustrative online store on Shopify selling wool socks and blankets in the United States, run by an owner and an operator. First come the inputs the operator supplied, in full, then the report the workflow template returned on 5 November 2026.
 
 ## The inputs
 

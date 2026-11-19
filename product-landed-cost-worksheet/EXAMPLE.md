@@ -1,6 +1,6 @@
-# Product landed cost worksheet: an invented example
+# Product landed cost worksheet: an example
 
-*Illustrative example with invented data.* The store, the suppliers, the products, the invoices, the reference numbers, the amounts and every date below are invented. The store is an invented online kitchenware shop, called the Store here, that imports four products from one factory, Supplier A. The shipment came by sea through Forwarder B, cleared customs through Broker C, was insured by Insurer D and was received at Warehouse E. People are referred to by role: the owner approves costs, and the bookkeeper enters them.
+*Illustrative example with sample data.* The store, the suppliers, the products, the invoices, the reference numbers, the amounts and every date below are illustrative. The store is an illustrative online kitchenware shop, called the Store here, that imports four products from one factory, Supplier A. The shipment came by sea through Forwarder B, cleared customs through Broker C, was insured by Insurer D and was received at Warehouse E. People are referred to by role: the owner approves costs, and the bookkeeper enters them.
 
 The inputs come first, in full, so the template can be run on them. The worksheet follows.
 

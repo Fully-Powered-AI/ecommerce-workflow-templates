@@ -144,9 +144,9 @@ Draft for [approver]'s decision. No cost has been changed in the store or the bo
 
 ## Acceptance tests
 
-Proposed tests. The first uses the inputs of the two recorded runs on the invented example (see the trial record); the others have not been run.
+Proposed tests. The first uses the inputs of the two recorded runs on the example (see the trial record); the others have not been run.
 
-1. **Normal shipment.** The invented example's inputs. Expected: the worksheet in the example, figure for figure: the $358.05 of duty and the $32.00 processing fee that the broker's invoice passes on are counted once, from the entry, and listed under Not counted, so duty and customs fees total $390.05; the rounding check is $1.25 above the shipment total.
+1. **Normal shipment.** The example's inputs. Expected: the worksheet in the example, figure for figure: the $358.05 of duty and the $32.00 processing fee that the broker's invoice passes on are counted once, from the entry, and listed under Not counted, so duty and customs fees total $390.05; the rounding check is $1.25 above the shipment total.
 2. **Renamed column.** The store cost export has `cost_per_item` instead of `recorded_cost`. Expected: stops; lists expected and found headers; prepares nothing.
 3. **Short delivery.** 190 bowls received against 200 invoiced. Expected: stops and asks which quantity stands.
 4. **Reclaimed tax.** The broker's invoice also carries $1,020.00 of import VAT, and the settings name import VAT as reclaimed. Expected: the VAT line under Not counted as a reclaimed tax and named in the Settings line; all charges stay $2,031.25 and every figure stays as in the example.
@@ -281,4 +281,4 @@ returning the worksheet.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example on 10 November 2026 in two runs in Claude: the first on the template as first written, the second, not blind, on the instructions as they now stand, after small clarifications to the procedure and the pasted instructions that the trial record lists. Both runs followed a clean path, so the record notes that none of the stop conditions was exercised. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its example on 10 November 2026 in two runs in Claude: the first on the template as first written, the second, not blind, on the instructions as they now stand, after small clarifications to the procedure and the pasted instructions that the trial record lists. Both runs followed a clean path, so the record notes that none of the stop conditions was exercised. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

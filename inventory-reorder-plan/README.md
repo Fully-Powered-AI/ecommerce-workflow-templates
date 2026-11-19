@@ -8,7 +8,7 @@ The buyer gets one plan from the latest sales and stock exports, with what to or
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · E-commerce and retail · Supply chain and inventory · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inventory-reorder-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan)*
@@ -47,7 +47,7 @@ Where a supplier's minimum order is not reached, the plan does not pad the order
 
 A good plan can be checked line by line against the exports, and the owner can approve it in one sitting.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -71,7 +71,7 @@ It follows naturally from a [store facts file](https://fullypowered.ai/workflows
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words, drawing on two published inventory methods credited with it. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with the template; it lists the edits made afterward, including the rounding rule for stock above the overstock limit, which have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, drawing on two published inventory methods credited with it. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026, and the record of that run is published with the template; it lists the edits made afterward, including the rounding rule for stock above the overstock limit, which have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past weeks your buyer remembers well, plus hard cases written in advance, each with its expected behavior: an export with a renamed column, an item that was sold out for part of the month, a one-off wholesale order, stock already on order, a supplier minimum that is not reached. The buyer checks every quantity against the exports before anyone approves an order. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-inventory-reorder-plan&from=gh-ecommerce-inventory-reorder-plan) shows the record.
 
@@ -79,13 +79,13 @@ Testing in your environment means running it on two or three past weeks your buy
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

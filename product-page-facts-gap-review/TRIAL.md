@@ -1,10 +1,10 @@
-# Product-page facts gap review: trial on the invented example
+# Product-page facts gap review: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 
-This run used the invented Saltmarrow Candle Co. example. No client data was used. The inputs are the five inputs in [public/example.md](example.md): the fact list, product lines and rules; the products export `products-2026-11-03.csv`; the batch request; the sources for the batch (two labels and the spec sheet); and the image description for `harbor-fig-front.jpg`. The assistant instructions and output format came from `member/template.md`. Nothing was supplied beyond the example.
+This run used the illustrative Saltmarrow Candle Co. example. No client data was used. The inputs are the five inputs in [public/example.md](example.md): the fact list, product lines and rules; the products export `products-2026-11-03.csv`; the batch request; the sources for the batch (two labels and the spec sheet); and the image description for `harbor-fig-front.jpg`. The assistant instructions and output format came from `member/template.md`. Nothing was supplied beyond the example.
 
 A limit on this trial: the person running it did not write the template, but the example file holds the inputs and the published output together, and the output was read before the run, in the same file read. So this is not a blind comparison. The run followed the instruction block and output format step by step, and every count and line below was recomputed from the inputs, but the close match to the published output should be read with that in mind. The image was not viewed as a picture. The example supplies a written description of it, and the alt text is drawn from that description.
 
@@ -124,4 +124,4 @@ These edits were made after the run above, to settle what it found. They have no
 - **Line matching:** capitals are ignored and a hyphen in a handle counts as a space, so "jar-candle" matches "Jar candle".
 - **Variants:** a note that Shopify's "Default Title" counts as one variant, and how to count variants on another platform.
 - **Images:** an image described in words but not attached counts as not viewed, and its alt text line is [open].
-- **Example:** it now says the review was run on 3 November 2026, the day of the export, which is why its header date differs from this run's; that the merchandiser attached the picture and the page describes it in words for readers; and its invented SKUs use the prefix SM- in place of SH-. SKUs appear nowhere in the output.
+- **Example:** it now says the review was run on 3 November 2026, the day of the export, which is why its header date differs from this run's; that the merchandiser attached the picture and the page describes it in words for readers; and its illustrative SKUs use the prefix SM- in place of SH-. SKUs appear nowhere in the output.

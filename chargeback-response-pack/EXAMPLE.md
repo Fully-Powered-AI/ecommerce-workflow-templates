@@ -1,6 +1,6 @@
-# Chargeback response pack: an invented example
+# Chargeback response pack: an example
 
-*Illustrative example with invented data.* Tidevale Teaware, its customers, its payment processor (called Processor P here), its carrier (called Carrier N), the addresses, the order and dispute numbers and every figure below are invented. Tidevale Teaware is an online shop selling teapots and loose-leaf tea, run by an owner with a part-time bookkeeper. The addresses and IP addresses use ranges set aside for examples. First come the inputs the bookkeeper supplied, in full, then the pack the workflow template returned.
+*Illustrative example with sample data.* Tidevale Teaware, its customers, its payment processor (called Processor P here), its carrier (called Carrier N), the addresses, the order and dispute numbers and every figure below are illustrative. Tidevale Teaware is an online shop selling teapots and loose-leaf tea, run by an owner with a part-time bookkeeper. The addresses and IP addresses use ranges set aside for examples. First come the inputs the bookkeeper supplied, in full, then the pack the workflow template returned.
 
 ## The inputs
 

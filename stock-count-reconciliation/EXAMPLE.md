@@ -1,6 +1,6 @@
-# Stock count reconciliation: an invented example
+# Stock count reconciliation: an example
 
-*Illustrative example with invented data.* The business, the suppliers, the items, the quantities, the values and every date below are invented. The business is an invented online homewares shop with one warehouse, called the Store here, buying from suppliers named Supplier A and Supplier B. Its warehouse lead counted every stock item after closing on the last Saturday of October, and its bookkeeper exported the books' figures for the same date. People are referred to by role.
+*Illustrative example with sample data.* The business, the suppliers, the items, the quantities, the values and every date below are illustrative. The business is an illustrative online homewares shop with one warehouse, called the Store here, buying from suppliers named Supplier A and Supplier B. Its warehouse lead counted every stock item after closing on the last Saturday of October, and its bookkeeper exported the books' figures for the same date. People are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The reconciliation follows.
 

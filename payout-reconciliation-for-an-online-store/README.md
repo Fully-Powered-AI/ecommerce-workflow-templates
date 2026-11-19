@@ -8,7 +8,7 @@ Get every processor and marketplace payout tied to the bank, each fee checked ag
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · E-commerce and retail · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/payout-reconciliation-for-an-online-store/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-payout-reconciliation-for-an-online-store&from=gh-payout-reconciliation-for-an-online-s)*
@@ -54,7 +54,7 @@ The workflow template names the column headings it expects in each export. If yo
 
 A good pack lets the bookkeeper post the month and the owner decide on a fee dispute in one sitting.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -72,7 +72,7 @@ List the channels you are paid by and how each one appears on your bank statemen
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words, drawing on two published methods that are credited with it. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it, and lists the ambiguities it met and the small edits made afterward, which have not been run again. That run covered an ordinary month; it did not reach a column heading that does not match, a foreign currency, a payout that does not add up or a request to post or adjust. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, drawing on two published methods that are credited with it. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026; the record of that run is published with it, and lists the ambiguities it met and the small edits made afterward, which have not been run again. That run covered an ordinary month; it did not reach a column heading that does not match, a foreign currency, a payout that does not add up or a request to post or adjust. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past months your bookkeeper has already closed, with hard cases written in advance: an export whose headings differ, a payout on the last business day of the month, a deposit that matches nothing, a refund where the channel keeps part of its fee. The bookkeeper checks every fee difference by hand against the rate before anything is raised. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-payout-reconciliation-for-an-online-store&from=gh-payout-reconciliation-for-an-online-s) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-payout-reconciliation-for-an-online-store&from=gh-payout-reconciliation-for-an-online-s) describes the record we keep.
 
@@ -80,13 +80,13 @@ Testing in your environment means running it on two or three past months your bo
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

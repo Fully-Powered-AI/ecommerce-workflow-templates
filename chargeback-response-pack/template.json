@@ -47,7 +47,7 @@
       "commit": "30a1fb674e41284e738608c059690c251699eb07",
       "path": "skills/payments-checkout/chargeback-management-prevention/SKILL.md",
       "licence": "MIT",
-      "contribution": "Answering each dispute before its deadline with evidence that suits its reason, delivery records and customer messages as core evidence, earlier undisputed orders for a fraud claim, the point that a dispute can begin as an inquiry before it becomes a chargeback, counting a month's disputes against the same month's payments, and the 0.65% early-warning and 1.00% monitoring levels used as the invented example's settings.",
+      "contribution": "Answering each dispute before its deadline with evidence that suits its reason, delivery records and customer messages as core evidence, earlier undisputed orders for a fraud claim, the point that a dispute can begin as an inquiry before it becomes a chargeback, counting a month's disputes against the same month's payments, and the 0.65% early-warning and 1.00% monitoring levels used as the example's settings.",
       "text_reused": false,
       "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
     },

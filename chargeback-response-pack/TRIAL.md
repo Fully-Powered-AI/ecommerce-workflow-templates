@@ -1,10 +1,10 @@
-# Chargeback response pack: tried on its invented example
+# Chargeback response pack: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 
-The template was run three times on 10 November 2026 on its invented example (Tidevale Teaware, dispute DP-20931), and no client data was used in any run. The template and the example were revised after the first run. This record gives a short account of the first run, the second run in full, and a third, blind run made after small wording edits to the pasted instructions.
+The template was run three times on 10 November 2026 on its example (Tidevale Teaware, dispute DP-20931), and no client data was used in any run. The template and the example were revised after the first run. This record gives a short account of the first run, the second run in full, and a third, blind run made after small wording edits to the pasted instructions.
 
 ## The first run
 
@@ -43,7 +43,7 @@ A complete eight-part pack, in the fixed format. Its main points:
 - Differences from the example's output:
   - The run named "records the reason needs" as not supplied, in "Prepared from" and in "Inputs missing", adding that none is needed for this family. The example does not name it. The template asked for those records only for return, cancellation, duplicate-charge and subscription disputes, and did not say whether an input the family does not need is named as not supplied. After this run the template was edited to say it is not named, which matches the example. That edit has not been run again. (The third run, below, was made after it.)
   - The run's response was shorter (170 words against the example's 182) and kept to one fact per sentence. Its exhibit descriptions and evidence lines were worded more briefly. No fact differed.
-- Shortcomings of this trial: two runs on one invented example, the recorded one by the model session that revised the template. It does not show how the template behaves with a messy real export, a header that does not match, or inputs that try to instruct the assistant; the acceptance tests for those cases have not been run. No other AI product was tried. (The third run, below, was blind.)
+- Shortcomings of this trial: two runs on one example, the recorded one by the model session that revised the template. It does not show how the template behaves with a messy real export, a header that does not match, or inputs that try to instruct the assistant; the acceptance tests for those cases have not been run. No other AI product was tried. (The third run, below, was blind.)
 
 ## The third run
 
@@ -72,4 +72,4 @@ A complete eight-part pack, in the fixed format, preceded by one line outside th
   - The draft response was longer (239 words against 182) and more detailed, but stayed within the limit and every sentence had an exhibit. One sentence cites two exhibits, (E1, E2).
   - "Not checked" listed seven points against the example's two, adding what the photo shows, whether a carrier claim was opened, the card network, orders under other emails, the processor's limit as the owner's reading, and the clock's date. Each was a fair point the inputs leave open.
   - Small wording differences: "Product not received (no code shown)" and "0 (none)".
-- Shortcomings of this trial: three runs on one invented example, all by Claude models in Claude. It still does not show how the template behaves with a messy real export, a header that does not match, or inputs that try to instruct the assistant; the acceptance tests for those cases have not been run. No other AI product was tried.
+- Shortcomings of this trial: three runs on one example, all by Claude models in Claude. It still does not show how the template behaves with a messy real export, a header that does not match, or inputs that try to instruct the assistant; the acceptance tests for those cases have not been run. No other AI product was tried.

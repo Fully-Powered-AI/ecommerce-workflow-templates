@@ -8,7 +8,7 @@ After a physical count, get every item compared with the books, each difference 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · E-commerce and retail · Supply chain and inventory · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/stock-count-reconciliation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-stock-count-reconciliation&from=gh-ecommerce-stock-count-reconciliation)*
@@ -45,7 +45,7 @@ One reconciliation in a fixed order: a header that states the basis of the compa
 
 Every figure can be traced to the count sheet, the book stock report or a movement note, and the bookkeeper can recheck any line with a calculator.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -71,7 +71,7 @@ It sits naturally beside the [month-end close checklist](https://fullypowered.ai
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words, drawing on one published stock reconciliation method that is credited with this entry. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with the template. Earlier runs that day and an independent review found a few unclear points; the template and the example were corrected for them before the run recorded there, which is the run on the corrected version and was made by the assistant that applied the corrections. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, drawing on one published stock reconciliation method that is credited with this entry. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026, and the record of that run is published with the template. Earlier runs that day and an independent review found a few unclear points; the template and the example were corrected for them before the run recorded there, which is the run on the corrected version and was made by the assistant that applied the corrections. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on one or two past counts your bookkeeper remembers well, with hard cases written in advance: a renamed column, an item missing from the count sheet, a delivery on the shelf that was never entered, two similar items counted under each other's codes, a value in the books with no units behind it, and an empty item list. The bookkeeper checks every line against the exports before anyone approves an adjustment. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-stock-count-reconciliation&from=gh-ecommerce-stock-count-reconciliation) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-stock-count-reconciliation&from=gh-ecommerce-stock-count-reconciliation) describes the record we keep.
 
@@ -79,13 +79,13 @@ Testing in your environment means running it on one or two past counts your book
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -4,11 +4,11 @@
 
 Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date: 2026-11-09.
 
-This trial used the invented example's inputs only: the invented store Tarnmoor Wool Co. No client data was used. The run followed the instruction block and the output format in the template and produced the output below from the inputs alone. The example's own output was read only afterwards, for comparison.
+This trial used the example's inputs only: the illustrative store Tarnmoor Wool Co. No client data was used. The run followed the instruction block and the output format in the template and produced the output below from the inputs alone. The example's own output was read only afterwards, for comparison.
 
 ## Inputs used
 
-From `public/example.md`: the operator's note, the store facts file for the invented store (last changed 2026-11-03), and the address list copied on 2026-11-04. No current guide text and no earlier draft were supplied.
+From `public/example.md`: the operator's note, the store facts file for the illustrative store (last changed 2026-11-03), and the address list copied on 2026-11-04. No current guide text and no earlier draft were supplied.
 
 ## What came out
 

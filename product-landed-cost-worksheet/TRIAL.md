@@ -1,16 +1,16 @@
-# Product landed cost worksheet: two runs on its invented example
+# Product landed cost worksheet: two runs on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID `claude-opus-5-5`)
 - **Date:** 2026-11-10
 
-The template was run twice on 10 November 2026 on its invented example, and no client data was used in either run. The first run, by a model that did not write the template, came before two editorial reviews; small clarifications were made to the procedure and the pasted instructions after each review. The run recorded in full here is the second, made on the instructions as they now stand. A short account of the first run, and of what was changed after it, follows.
+The template was run twice on 10 November 2026 on its example, and no client data was used in either run. The first run, by a model that did not write the template, came before two editorial reviews; small clarifications were made to the procedure and the pasted instructions after each review. The run recorded in full here is the second, made on the instructions as they now stand. A short account of the first run, and of what was changed after it, follows.
 
 **A limit on this record.** The second run was not blind. It was made by the same model session that applied the second review's points, after reading the template, the example's output and the first run's record. It shows what the revised instructions give when followed step by step; it is not an independent second reading of them, and its agreement with the example shows less than the first run's agreement did.
 
 ## The second run
 
-The inputs are the invented example in [`example.md`](example.md): the invented kitchenware store, Supplier A order SA-0457, and everything under "The inputs" there (settings, supplier invoice lines, receiving record, store cost export, the four charge invoices and the customs entry, and the note about the bamboo boards). The run followed the instruction block and the output format in `member/template.md`. The arithmetic was checked with a short script working from the inputs.
+The inputs are the example in [`example.md`](example.md): the illustrative kitchenware store, Supplier A order SA-0457, and everything under "The inputs" there (settings, supplier invoice lines, receiving record, store cost export, the four charge invoices and the customs entry, and the note about the bamboo boards). The run followed the instruction block and the output format in `member/template.md`. The arithmetic was checked with a short script working from the inputs.
 
 ### What came out
 

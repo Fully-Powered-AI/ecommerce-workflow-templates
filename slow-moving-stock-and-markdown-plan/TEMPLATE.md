@@ -132,7 +132,7 @@ Draft for [owner]'s decision. No price has been changed and nothing has been pub
 
 ## Acceptance tests
 
-Proposed tests. None has been run as a separate test. Tests 1 to 6 and 8 use cases that also appear in the invented example, which was tried once (see the record published with the template); the rest have not been tried at all.
+Proposed tests. None has been run as a separate test. Tests 1 to 6 and 8 use cases that also appear in the example, which was tried once (see the record published with the template); the rest have not been tried at all.
 
 1. **Slow item.** 210 sold in the period, 48 in the last 4 weeks, 140 on hand, 8.1 weeks to the reset. Expected: sell-through 60.0%; 12.00 a week; 11.7 weeks of cover; 97 sold and 43 left by the reset; projected sell-through 87.7%; Slow stock; plan starts at the first markdown percentage.
 2. **Deeper start.** 34 sold in the period, 6 in the last 4 weeks, 96 on hand, 8.1 weeks to the reset. Expected: projected sell-through 35.4%; plan starts at the second markdown percentage, labelled Step 1, and names that reason.
@@ -283,7 +283,7 @@ before returning the plan.
 - [your owner], and whether a markdown deeper than a set percentage needs a second person.
 - [your period start]: the date your sales period begins, usually the start of the season.
 - [your new-item window], [your markdown steps], [your deeper-start line], [your margin floor], [your stop gap] and [your cover limit for kept lines], perhaps different by category.
-- A smallest worthwhile step at the floor: as written, a step priced at the floor is kept even when it is only a little below the step before (in the invented example, 40 cents on the pine candle), and the plan shows its margin and check figure so the owner can hold it. If your store would rather drop such a step, set the amount below which it is dropped and have the plan say so on the line.
+- A smallest worthwhile step at the floor: as written, a step priced at the floor is kept even when it is only a little below the step before (in the example, 40 cents on the pine candle), and the plan shows its margin and check figure so the owner can hold it. If your store would rather drop such a step, set the amount below which it is dropped and have the plan say so on the line.
 - Price endings: if your store prices end in .99 or .95, add the rounding rule to step 9 and to item 9 of the instruction block (the procedure has no setting for it), and recheck the margins and the floor at the rounded price.
 - Which end-of-line choices are open to you: whether suppliers take returns, whether you sell to clearance buyers, and where you donate.
 - How you mark items `clear` and `keep` before each reset, and who counts the units sold at each check date.
@@ -291,4 +291,4 @@ before returning the plan.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026; the record is published with the template and lists the edits made afterward, which have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its example in Claude on 10 November 2026; the record is published with the template and lists the edits made afterward, which have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

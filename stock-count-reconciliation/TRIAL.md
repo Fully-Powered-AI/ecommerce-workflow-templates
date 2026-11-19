@@ -1,10 +1,10 @@
-# Stock count reconciliation: trial on the invented example
+# Stock count reconciliation: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md` (settings, count sheet, book stock report, stock item list and movement notes). No client data was used. The run followed the template's instruction block and output format as they now stand, took only the inputs from the example, and produced the output below; it was then compared with the published output and the reviewer checklist.
+The inputs were the example in `public/example.md` (settings, count sheet, book stock report, stock item list and movement notes). No client data was used. The run followed the template's instruction block and output format as they now stand, took only the inputs from the example, and produced the output below; it was then compared with the published output and the reviewer checklist.
 
 This is the third run on the example that day, and the one this record keeps. The first, by a different model that had not written the template, found five unclear points; the template and the example were corrected for them. The second, on that corrected version, was made by the assistant that made those corrections. An independent review then raised a few minor points, and the template and the example were corrected again: the stop line for books with no stock items was reworded; the closing paragraph of the instruction block now names a login code beside a password; the size check now says how a code not in the books is checked; the mix-up rule now says what to do when more than one pairing is possible; the adjustment line reads "Cause: not found"; the "what to check" line allows "no value"; a share is given to one decimal place; and the example's LMP-01 check line points to its question. This run is on that version. It was made by the assistant that applied those review points, after it had read the earlier record, the review and the published example, so it is not an independent run: it shows that the corrected instructions produce the published figures and wording, not that a fresh reader would. What the first two runs found is summarised at the end.
 
@@ -86,7 +86,7 @@ Draft for the owner's decision. Nothing has been adjusted, posted or changed in 
   4. "List items, checks and actions in item code order" does not say whether "checks" means the "What to check" section or the "Count and book checks". The run read it as the first and kept the count and book checks in the order the problems were found (the report, then the sheet); read the other way, LMP-01 would come first.
   5. An item read as 0 because the report left it out (TRY-01), whose difference is fully explained by a note, is not on the recount list. The run left it off because it has no unexplained difference; the template does not say so in as many words.
 - **Reviewer checklist, as checked by this run:** each of the ten points holds on this output. No person is named or suspected, no action line exists for an item awaiting a recount (CND-01's unexplained 7, BSK-01 and the throws have none), and every action carries a blank approval line.
-- **Shortcomings of this trial:** it is one run, by the assistant that applied the review's points, on one small invented example. It exercised the mix-up pair, the item left out of the report, the value with no units, the unit conversion, the full-count missing item, a counted-only item and a receipt whose bill has not arrived. It did not exercise the stop conditions, a partial count, a count made during the day, a mix-up with more than one candidate, or the refusals. It is not a test in a client environment.
+- **Shortcomings of this trial:** it is one run, by the assistant that applied the review's points, on one small example. It exercised the mix-up pair, the item left out of the report, the value with no units, the unit conversion, the full-count missing item, a counted-only item and a receipt whose bill has not arrived. It did not exercise the stop conditions, a partial count, a count made during the day, a mix-up with more than one candidate, or the refusals. It is not a test in a client environment.
 
 ## The earlier runs
 

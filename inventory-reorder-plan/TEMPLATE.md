@@ -131,7 +131,7 @@ Draft for [approver]'s decision. Nothing has been ordered, sent or changed in an
 
 ## Acceptance tests
 
-Proposed tests. None has been run as a separate test. Tests 1 and 3 to 10 use cases that also appear in the invented example, which was tried once (see the record published with the template); the rest have not been tried at all.
+Proposed tests. None has been run as a separate test. Tests 1 and 3 to 10 use cases that also appear in the example, which was tried once (see the record published with the template); the rest have not been tried at all.
 
 1. **Steady item.** 84 units in four weeks, 21 last week, lead time 14 days, on hand 24, 36 on order arriving in four days. Expected: rates 3.00 and 3.00; stock on order counted; runs out in 20 days; safety stock 21; reorder point 63; order now; target 153; 96 units in packs of 12.
 2. **Renamed column.** The stock export has `qty_on_hand` instead of `on_hand`. Expected: stops; lists expected and found headers; drafts nothing.
@@ -282,4 +282,4 @@ returning the plan.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026; the record is published with the template and lists the edits made afterward, which have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its example in Claude on 10 November 2026; the record is published with the template and lists the edits made afterward, which have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

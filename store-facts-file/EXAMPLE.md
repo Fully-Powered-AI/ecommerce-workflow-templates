@@ -1,6 +1,6 @@
-# Store facts file: an invented example
+# Store facts file: an example
 
-*Illustrative example with invented data.* The store, its products, its web address, its apps and its people below are all invented. Larkfield Loose Leaf is an invented small online tea shop: an owner who blends and packs the tea and also runs the store day to day, a part-time helper who answers email, and a bookkeeper. First come the inputs, in full, then the file and the report the workflow template returned.
+*Illustrative example with sample data.* The store, its products, its web address, its apps and its people below are all illustrative. Larkfield Loose Leaf is an illustrative small online tea shop: an owner who blends and packs the tea and also runs the store day to day, a part-time helper who answers email, and a bookkeeper. First come the inputs, in full, then the file and the report the workflow template returned.
 
 ## The inputs
 

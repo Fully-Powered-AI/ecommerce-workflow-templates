@@ -1,4 +1,4 @@
-# Store facts file: tried on its invented example
+# Store facts file: tried on its example
 
 - **Product:** Claude, run in Claude Code
 
@@ -6,7 +6,7 @@ Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5).
 
 Date: 2026-11-09
 
-The inputs are the invented Larkfield Loose Leaf example; no client data was used. The inputs are the five parts under "The inputs" in [`example.md`](example.md): the store basics, the product list export, the text of three product pages, the footer links and the owner's answers in the conversation. The run followed the instruction block and the output format in the template. The assistant did not read the example's published output until after its own was finished. The run was a single pass in one session, with the owner's answers read from the example's conversation record rather than from a live person, so the template's step of putting each question to the owner and waiting was not exercised.
+The inputs are the illustrative Larkfield Loose Leaf example; no client data was used. The inputs are the five parts under "The inputs" in [`example.md`](example.md): the store basics, the product list export, the text of three product pages, the footer links and the owner's answers in the conversation. The run followed the instruction block and the output format in the template. The assistant did not read the example's published output until after its own was finished. The run was a single pass in one session, with the owner's answers read from the example's conversation record rather than from a live person, so the template's step of putting each question to the owner and waiting was not exercised.
 
 ## What came out
 
@@ -204,7 +204,7 @@ Nothing on the store has been changed, published or sent. The owner approves thi
 - The acceptance tests are marked as proposed and none has been run. This trial is one pass of test 1 only, with a read conversation rather than a live owner, so it does not count as running them.
 - The step to explain the marks "in a few sentences" and the many "ask" steps cannot be checked from a read conversation. Whether a real owner would stay on course through the whole sequence is not tested.
 
-**What this trial does not show.** It was one run, by one model, on a short invented store. It does not show how the template behaves with a live owner, with a real export, in other AI products, or with a store that has an existing file (revision). No client environment was used.
+**What this trial does not show.** It was one run, by one model, on a short illustrative store. It does not show how the template behaves with a live owner, with a real export, in other AI products, or with a store that has an existing file (revision). No client environment was used.
 
 ## Changes made after this run
 

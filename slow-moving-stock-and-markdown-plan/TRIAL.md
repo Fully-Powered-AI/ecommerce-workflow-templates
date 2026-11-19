@@ -1,10 +1,10 @@
-# Slow-moving stock and markdown plan: tried on its invented example
+# Slow-moving stock and markdown plan: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md`: its settings, stock export, sales export and notes. No client data was used. The model that ran the template did not write it, and read only the example's inputs before producing the plan below. The example's own output was read afterwards, for comparison.
+The inputs were the example in `public/example.md`: its settings, stock export, sales export and notes. No client data was used. The model that ran the template did not write it, and read only the example's inputs before producing the plan below. The example's own output was read afterwards, for comparison.
 
 Arithmetic that is easy to get wrong (dates, rounding, floor prices) was checked with a short script; the plan itself was written by following the template's instruction block and output format.
 
@@ -89,7 +89,7 @@ Draft for the owner's decision. No price has been changed and nothing has been p
 
 - **Every required part was produced.** Header, column check, dates, settings, summary, data checks, five groups, three markdown plans, five questions and the closing line. No stop condition applied: all headers matched, the reset date was given, and no item code was repeated.
 - **Nothing came out that the template told the assistant to stop for.** The only things set aside were the left-out item (SOCK-09), the zero-stock item (ORN-07) and the too-new item (THR-06), all as the template directs.
-- **Every figure traced to the inputs.** No fact appears in the output that is not in the inputs, apart from the dates and weekday names the template has the assistant work out, and the invented product names as given.
+- **Every figure traced to the inputs.** No fact appears in the output that is not in the inputs, apart from the dates and weekday names the template has the assistant work out, and the illustrative product names as given.
 - **Differences from the published example's output.** Only two, and neither changes a figure, a date or a price. First, question 5: the example does not give the units each planned item would have left at the reset at the current pace; this run did (84, 43, 75), because the template asks for facts and a question; the example's question asks "Which do you want for each?", this run "What do you want for each item?". Second, ordinary wording in the data checks: this run's SOCK-09 line leaves out its sales figures (18 in the period, 4 in the last 4 weeks), which the example gives; its SOCK-09 and TEA-08 lines say "question 1" and "question 2" where the example says "see question 1" and "see question 2"; and it added "counted in the summary" to the ORN-07 line. Every other line, number and date is the same as the example's output, including the order of groups and plans.
 - **Reviewer checklist.** Items 1 to 8 hold on a read of this output. Item 9 (owner approval before any price changes) cannot be shown by a single run; the output leaves a blank decision line on each plan and says nothing has been changed.
 

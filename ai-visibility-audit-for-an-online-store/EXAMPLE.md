@@ -1,6 +1,6 @@
-# AI visibility audit for an online store: an invented example
+# AI visibility audit for an online store: an example
 
-*Illustrative example with invented data.* Quillmere Candle Works is an invented Shopify store; its domain, its pages, its answer-check sheet and every person and figure below were written for this example, and nothing here describes a real store, a real result or how any real assistant behaves. The owner, who also edits the product pages, saved the store's public pages on Thursday 5 November 2026 and asked for the audit the same day. First come the inputs she supplied, in full, then the audit the workflow template returned.
+*Illustrative example with sample data.* Quillmere Candle Works is an illustrative Shopify store; its domain, its pages, its answer-check sheet and every person and figure below were written for this example, and nothing here describes a real store, a real result or how any real assistant behaves. The owner, who also edits the product pages, saved the store's public pages on Thursday 5 November 2026 and asked for the audit the same day. First come the inputs she supplied, in full, then the audit the workflow template returned.
 
 ## The inputs
 

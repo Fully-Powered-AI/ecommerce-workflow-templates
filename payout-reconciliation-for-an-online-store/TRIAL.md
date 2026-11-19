@@ -1,10 +1,10 @@
-# Payout reconciliation for an online store: a trial on the invented example
+# Payout reconciliation for an online store: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs for this run are the invented example in `public/example.md` (Store K, Processor P, Marketplace M, Bank B). No client data was used. The run was done by a model that did not write the template. It followed the instruction block and the output format in `member/template.md` using only the example's seven inputs (settings, fee schedule, payouts list, payout line exports, order export, bank statement export, last month's open items). It read the published example output only after its own output was finished.
+The inputs for this run are the example in `public/example.md` (Store K, Processor P, Marketplace M, Bank B). No client data was used. The run was done by a model that did not write the template. It followed the instruction block and the output format in `member/template.md` using only the example's seven inputs (settings, fee schedule, payouts list, payout line exports, order export, bank statement export, last month's open items). It read the published example output only after its own output was finished.
 
 ## What came out
 
@@ -110,7 +110,7 @@ Prepared for the owner. Nothing has been posted, paid, raised with a channel or 
 
 **Facts in either output that are not in the inputs:** none found. Weekday names are worked out from the statement's stated end date (Saturday 31 October) and agree with it. The $2.04 fee on K-2107, the $61.96 it would pay, the fee rates, the percentages and the business-day counts are all calculated from the inputs. The example's "whether Processor P's pricing page has changed since 1 March" is an inference from the input's date, not a stated fact.
 
-**Shortcomings of this trial.** It is one run, by one model, on one small invented month with no unusual cases: no header mismatch, no foreign currency, no reserve or adjustment lines, no payout that fails to foot, no deposit with more than one candidate, and no request to post, pay or adjust. The acceptance tests in the template have not been run by this trial. Nothing here shows how the template behaves with real exports.
+**Shortcomings of this trial.** It is one run, by one model, on one small illustrative month with no unusual cases: no header mismatch, no foreign currency, no reserve or adjustment lines, no payout that fails to foot, no deposit with more than one candidate, and no request to post, pay or adjust. The acceptance tests in the template have not been run by this trial. Nothing here shows how the template behaves with real exports.
 
 ## Edits made after this run
 

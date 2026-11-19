@@ -1,10 +1,10 @@
-# Inventory reorder plan: a trial on the invented example
+# Inventory reorder plan: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example's: its settings, supplier terms, stock export, weekly sales export and notes, in `public/example.md`. No client data was used. The assistant did not write the template. It read the template, then only the example's inputs, ran the instruction block and output format on them, and only then read the example's published output to compare.
+The inputs are the example's: its settings, supplier terms, stock export, weekly sales export and notes, in `public/example.md`. No client data was used. The assistant did not write the template. It read the template, then only the example's inputs, ran the instruction block and output format on them, and only then read the example's published output to compare.
 
 **Edited after this run, 10 November 2026.** Following two independent reviews, the template and the published example were edited after the run recorded here, and the run was not repeated. The output and the observations below are left as recorded, so where they describe the template or the example they describe them as they stood at the time of the run. The edits are listed under "Edited after this run" at the end.
 

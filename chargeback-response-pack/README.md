@@ -8,7 +8,7 @@ Match a card dispute to its order, see which evidence is found or missing, and g
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · E-commerce and retail · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/chargeback-response-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-chargeback-response-pack&from=gh-ecommerce-chargeback-response-pack)*
@@ -51,7 +51,7 @@ It is for disputes raised through the customer's bank. A customer who writes to 
 
 A good pack lets the owner decide and submit in one sitting, checking each sentence of the response against the exhibit beside it.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -67,7 +67,7 @@ Name who prepares the pack, who decides and who submits, and whether larger disp
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words, drawing on a published chargeback method that is credited with it. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in three runs: the template and example were revised after the first, and the third, a blind run on the current version, gave the same figures, evidence count, flags and ratio as the example; the record is published with it. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, drawing on a published chargeback method that is credited with it. It was editorially reviewed on 10 November 2026. It was tried on its example on 10 November 2026 in three runs: the template and example were revised after the first, and the third, a blind run on the current version, gave the same figures, evidence count, flags and ratio as the example; the record is published with it. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a few past disputes whose outcome you already know, with hard cases written in advance: an export whose headings differ, a dispute already answered, a deadline two days away, a reason that could fit two kinds of dispute. The owner checks every sentence of the response against its exhibit before anything is submitted. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-chargeback-response-pack&from=gh-ecommerce-chargeback-response-pack) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-chargeback-response-pack&from=gh-ecommerce-chargeback-response-pack) describes the record we keep.
 
@@ -75,13 +75,13 @@ Testing in your environment means running it on a few past disputes whose outcom
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

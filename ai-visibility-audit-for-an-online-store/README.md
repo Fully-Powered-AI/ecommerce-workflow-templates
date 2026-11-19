@@ -8,7 +8,7 @@ Find out what stops ChatGPT and other AI shopping assistants reading your store:
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · E-commerce and retail · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ai-visibility-audit-for-an-online-store/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto)*
@@ -49,7 +49,7 @@ One dated audit, in a fixed order:
 
 Good looks like this: anyone can check any line against the saved file it names in under a minute, and nothing in the audit claims more than those files show. Fixes to product descriptions and images go naturally to a [product-page facts gap review](https://fullypowered.ai/workflows/product-page-facts-gap-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto).
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -71,7 +71,7 @@ If the site sells nothing online, use the [website findability audit](https://fu
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026 in two runs: the first, by a model that had not written it, found places where the instructions were open; they were closed, and the second run, recorded with it, was made on the revised version by the model that revised it. A few clarifications made after that run, without a rerun, are listed in its record. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its example in Claude on 9 November 2026 in two runs: the first, by a model that had not written it, found places where the instructions were open; they were closed, and the second run, recorded with it, was made on the revised version by the model that revised it. A few clarifications made after that run, without a rerun, are listed in its record. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on your own store's saved pages, plus hard cases written in advance, each with its expected behavior: a page that was not saved, a robots rule that shuts out a crawler, a product page with no availability in its structured data, an answer sheet asked from a connected account. A person checks every outcome against the saved files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=ecommerce-ai-visibility-audit-for-an-online-store&from=gh-ai-visibility-audit-for-an-online-sto) shows the record.
 
@@ -79,13 +79,13 @@ Testing in your environment means running it on your own store's saved pages, pl
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
